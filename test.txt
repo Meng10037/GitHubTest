@@ -12,3 +12,7 @@ fuck
 
 
 二次复习测试
+
+git diff test2
+
+git branch test
